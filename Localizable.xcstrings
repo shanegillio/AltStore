@@ -1,0 +1,3093 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "“%@” Blocked" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ bloquée"
+          }
+        }
+      }
+    },
+    "“%@” could not be added to AltStore." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’ajouter %@ à AltStore"
+          }
+        }
+      }
+    },
+    "“%@” will be automatically given these permissions once installed." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ recevra automatiquement ces autorisations une fois installée."
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ %@ is now available for download." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@ is now available for download."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ est désormais disponible au téléchargement."
+          }
+        }
+      }
+    },
+    "%@ %@ update. Released on %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@ update. Released on %3$@."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mise à jour %1$@ %2$@. Publiée le %3$@."
+          }
+        }
+      }
+    },
+    "%@ a month" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ par mois"
+          }
+        }
+      }
+    },
+    "%@ App IDs" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ identifiants d’application"
+          }
+        }
+      }
+    },
+    "%@ App IDs Remaining" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ identifiants d’application restants"
+          }
+        }
+      }
+    },
+    "%@ beta" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ bêta"
+          }
+        }
+      }
+    },
+    "%@ by %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ by %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ par %2$@"
+          }
+        }
+      }
+    },
+    "%@ can not jailbreak this device unless you untether it first. Are you sure you want to install without untethering?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ne peut pas jailbreaker cet appareil sans être détachée (untethered) d’abord. Êtes-vous sûr de vouloir installer sans détachement ?"
+          }
+        }
+      }
+    },
+    "%@ can only be downloaded from its original source" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ peut uniquement être téléchargé depuis sa source originale."
+          }
+        }
+      }
+    },
+    "%@ could not be downloaded." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de télécharger %@."
+          }
+        }
+      }
+    },
+    "%@ could not be found." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ est introuvable."
+          }
+        }
+      }
+    },
+    "%@ could not be installed." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’installer %@."
+          }
+        }
+      }
+    },
+    "%@ days" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ jours"
+          }
+        }
+      }
+    },
+    "%@ DAYS" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ JOURS"
+          }
+        }
+      }
+    },
+    "%@ does not support iOS %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ does not support iOS %2$@."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ne prend pas en charge iOS %2$@."
+          }
+        }
+      }
+    },
+    "%@ is not added to AltStore." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ n’est pas ajoutée à AltStore."
+          }
+        }
+      }
+    },
+    "%@ may request access to the following:" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ peut demander l’accès aux éléments suivants :"
+          }
+        }
+      }
+    },
+    "%@ News" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Actualités"
+          }
+        }
+      }
+    },
+    "%@ requires %@ App IDs, but %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ requires %2$@ App IDs, but %3$@."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ nécessite %2$@ identifiants d’application, mais %3$@."
+          }
+        }
+      }
+    },
+    "%@ requires additional permissions not specified by the source." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ nécessite des autorisations supplémentaires non spécifiées par la source."
+          }
+        }
+      }
+    },
+    "%@ requires an active pledge in order to be installed." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ nécessite un soutien actif pour pouvoir être installée."
+          }
+        }
+      }
+    },
+    "%@ requires iOS %@ or earlier." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ requires iOS %2$@ or earlier."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ nécessite iOS %2$@ ou une version antérieure."
+          }
+        }
+      }
+    },
+    "%@ requires iOS %@ or later." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ requires iOS %2$@ or later."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ nécessite iOS %2$@ ou une version ultérieure."
+          }
+        }
+      }
+    },
+    "%@ requires more permissions than the version that is already installed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ nécessite plus d’autorisations que la version déjà installée."
+          }
+        }
+      }
+    },
+    "%@ Unsupported Updates Available" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ mises à jour non prises en charge disponibles"
+          }
+        }
+      }
+    },
+    "%@/mo" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@/mois"
+          }
+        }
+      }
+    },
+    "^[%lld app](inflect: true)" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%lld app](inflect: true)"
+          }
+        }
+      }
+    },
+    "1 App ID" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 identifiant d’application"
+          }
+        }
+      }
+    },
+    "1 App ID Remaining" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 identifiant d’application restant"
+          }
+        }
+      }
+    },
+    "1 day" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 jour"
+          }
+        }
+      }
+    },
+    "A connection to AltServer could not be established." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’établir une connexion avec AltServer."
+          }
+        }
+      }
+    },
+    "A permission for %@ is missing a usage description." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une autorisation pour %@ ne possède pas de description d’utilisation."
+          }
+        }
+      }
+    },
+    "A placeholder app needs to be installed in order to prepare your device for untethering.\n\nThis may take a few moments." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une app factice doit être installée afin de préparer votre appareil au détachement (untethering).\n\nCela peut prendre quelques instants."
+          }
+        }
+      }
+    },
+    "A source cannot change its identifier once added. This source can no longer be updated." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une source ne peut plus modifier son identifiant une fois ajoutée. Cette source ne pourra plus être mise à jour."
+          }
+        }
+      }
+    },
+    "A source with the identifier '%@' already exists" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une source avec l’identifiant %@ existe déjà."
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos"
+          }
+        }
+      }
+    },
+    "ACCOUNT" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COMPTE"
+          }
+        }
+      }
+    },
+    "Activate" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer"
+          }
+        }
+      }
+    },
+    "ACTIVATE" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ACTIVER"
+          }
+        }
+      }
+    },
+    "Activate %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer %@"
+          }
+        }
+      }
+    },
+    "Active" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actives"
+          }
+        }
+      }
+    },
+    "ADD" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AJOUTER"
+          }
+        }
+      }
+    },
+    "Add More Sources" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter plus de sources"
+          }
+        }
+      }
+    },
+    "Add Source" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter une source"
+          }
+        }
+      }
+    },
+    "Additional Permissions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autres autorisations"
+          }
+        }
+      }
+    },
+    "all apps downloaded from it." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "toutes les apps téléchargées depuis cette source."
+          }
+        }
+      }
+    },
+    "All apps have been refreshed." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toutes les apps ont été rafraîchies."
+          }
+        }
+      }
+    },
+    "AltServer" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltServer"
+          }
+        }
+      }
+    },
+    "AltServer could not be found." : {
+      "comment" : "AltServer n’a pas été trouvé.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltServer est introuvable."
+          }
+        }
+      }
+    },
+    "AltStore can only install marketplace apps that have been notarized by Apple." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore peut uniquement installer des apps ayant été notariées par Apple."
+          }
+        }
+      }
+    },
+    "AltStore could not determine this device's UDID." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore n’a pas pu déterminer l’UDID de cet appareil."
+          }
+        }
+      }
+    },
+    "AltStore does not have detailed information for these entitlements." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore ne dispose pas d’informations détaillées pour ces droits d’accès."
+          }
+        }
+      }
+    },
+    "AltStore Expiring Soon" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore expire bientôt"
+          }
+        }
+      }
+    },
+    "AltStore News" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualités AltStore"
+          }
+        }
+      }
+    },
+    "AltStore was denied permission to launch %@." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore n’a pas reçu l’autorisation de lancer %@."
+          }
+        }
+      }
+    },
+    "AltStore was unable to use an existing signing certificate, so it had to create a new one. This will cause any apps installed with an existing certificate to expire — including AltStore.\n\nTo prevent AltStore from expiring early, please refresh the app now. AltStore will quit once refreshing is complete." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore n’a pas pu utiliser un certificat de signature existant et a dû en créer un nouveau. Cela entraînera l’expiration de toutes les apps installées avec l’ancien certificat — y compris AltStore.\n\nPour éviter qu’AltStore n’expire prématurément, veuillez rafraîchir l’app maintenant. AltStore se fermera une fois le rafraîchissement terminé."
+          }
+        }
+      }
+    },
+    "AltStore will expire in 24 hours. Open the app and refresh it to prevent it from expiring." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AltStore expirera dans 24 heures. Ouvrez l’app et rafraîchissez-la pour éviter qu’elle n’expire."
+          }
+        }
+      }
+    },
+    "AltStore's shared app group could not be accessed." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le groupe d’apps partagé d’AltStore est inaccessible."
+          }
+        }
+      }
+    },
+    "an app in source “%@”" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "une app dans la source %@"
+          }
+        }
+      }
+    },
+    "An iPad screenshot for %@ does not specify its size" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une capture d’écran iPad pour %@ n’indique pas sa taille."
+          }
+        }
+      }
+    },
+    "An unknown error occured." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur inconnue s’est produite."
+          }
+        }
+      }
+    },
+    "Any apps you've installed from this source will remain, but they'll no longer receive any app updates." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toutes les apps installées depuis cette source resteront installées, mais elles ne recevront plus de mises à jour."
+          }
+        }
+      }
+    },
+    "App" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App"
+          }
+        }
+      }
+    },
+    "App Contains Extensions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’app contient des extensions"
+          }
+        }
+      }
+    },
+    "app extension" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "extension d’app"
+          }
+        }
+      }
+    },
+    "app extensions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "extensions d’app"
+          }
+        }
+      }
+    },
+    "App ID:" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Identifiants d’application:"
+          }
+        }
+      }
+    },
+    "App Refresh Tip" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Astuce de rafraîchissement d’app"
+          }
+        }
+      }
+    },
+    "Approve" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Approuver"
+          }
+        }
+      }
+    },
+    "Are you sure you want to clear AltStore's cache?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir vider le cache de AltStore? "
+          }
+        }
+      }
+    },
+    "Are you sure you want to clear the error log?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir effacer le journal des erreurs ?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to remove the source “%@”?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir supprimer la source %@ ?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to restore this backup?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir restaurer cette sauvegarde ?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to sign out?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir vous déconnecter ?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to unlink your Patreon account?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir dissocier votre compte Patreon?"
+          }
+        }
+      }
+    },
+    "Are you sure you'd like to %@ %@?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Are you sure you'd like to %1$@ %2$@?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous sûr de vouloir %1$@ %2$@?"
+          }
+        }
+      }
+    },
+    "Back Up" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarder"
+          }
+        }
+      }
+    },
+    "Back Up %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sauvegarder %@"
+          }
+        }
+      }
+    },
+    "Become a patron" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devenir membre"
+          }
+        }
+      }
+    },
+    "BILLING" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FACTURATION"
+          }
+        }
+      }
+    },
+    "Browse" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parcourir"
+          }
+        }
+      }
+    },
+    "Cannot Activate More than 3 Apps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’activer plus de 3 apps"
+          }
+        }
+      }
+    },
+    "Cannot Activate More than 3 Apps and App Extensions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’activer plus de 3 apps et extensions d’app"
+          }
+        }
+      }
+    },
+    "Cannot Send Mail" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’envoyer un mail"
+          }
+        }
+      }
+    },
+    "Categories" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catégories"
+          }
+        }
+      }
+    },
+    "Change App Icon" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changer l’icône de l’application"
+          }
+        }
+      }
+    },
+    "Change Icon" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changer l’icône"
+          }
+        }
+      }
+    },
+    "Classic" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Classique"
+          }
+        }
+      }
+    },
+    "Clear Cache" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vider le cache"
+          }
+        }
+      }
+    },
+    "Clear Error Log" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effacer le journal des erreurs"
+          }
+        }
+      }
+    },
+    "Coming Soon!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bientôt disponible !"
+          }
+        }
+      }
+    },
+    "Confirm Action" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer l’action"
+          }
+        }
+      }
+    },
+    "Confirm Installation" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer l’installation"
+          }
+        }
+      }
+    },
+    "Connect Patreon Account" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lier un compte Patreon"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuer"
+          }
+        }
+      }
+    },
+    "Continue in App" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuer dans l’app"
+          }
+        }
+      }
+    },
+    "Copy Error Code" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier le code d’erreur"
+          }
+        }
+      }
+    },
+    "Copy Error Message" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copier le message d’erreur"
+          }
+        }
+      }
+    },
+    "Could not back up “%@”." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de sauvegarder %@"
+          }
+        }
+      }
+    },
+    "Could not back up jailbreak app." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de sauvegarder l’app de jailbreak."
+          }
+        }
+      }
+    },
+    "Could not determine presenting context." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de déterminer le contexte de présentation."
+          }
+        }
+      }
+    },
+    "Could not download OTA archive." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de télécharger l’archive OTA."
+          }
+        }
+      }
+    },
+    "Could not enable JIT for %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’activer JIT pour %@"
+          }
+        }
+      }
+    },
+    "Could not extract Spotlight from OTA archive." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’extraire Spotlight de l’archive OTA."
+          }
+        }
+      }
+    },
+    "Could not install %@ placeholder." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’installer l’app factice %@."
+          }
+        }
+      }
+    },
+    "Could not install %@." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’installer %@."
+          }
+        }
+      }
+    },
+    "Could not open %@ placeholder." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’ouvrir l’app factice %@."
+          }
+        }
+      }
+    },
+    "Could not open %@." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’ouvrir %@."
+          }
+        }
+      }
+    },
+    "Could not patch %@ placeholder." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de patcher l’app factice %@."
+          }
+        }
+      }
+    },
+    "Could not restore “%@”." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de restaurer %@."
+          }
+        }
+      }
+    },
+    "CREDITS" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CRÉDITS"
+          }
+        }
+      }
+    },
+    "Custom Pledge" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soutien personnalisé"
+          }
+        }
+      }
+    },
+    "Deactivate" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactiver"
+          }
+        }
+      }
+    },
+    "DEBUG" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débogage"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer"
+          }
+        }
+      }
+    },
+    "Delete sideloaded apps to free up App ID slots." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimez des apps installées depuis AltStore pour libérer des identifiants d’application."
+          }
+        }
+      }
+    },
+    "DISPLAY" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APPARENCE"
+          }
+        }
+      }
+    },
+    "Don’t know where to start? Try adding one of our Recommended Sources!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous ne savez pas par où commencer ? Essayez d’ajouter l’une de nos sources recommandées !"
+          }
+        }
+      }
+    },
+    "Download %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécharger %@"
+          }
+        }
+      }
+    },
+    "Download %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download %1$@ %2$@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécharger %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Downloading %@…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Téléchargement de %@…"
+          }
+        }
+      }
+    },
+    "Downloading iOS firmware..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Téléchargement du firmware iOS…"
+          }
+        }
+      }
+    },
+    "duplicate versions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "versions dupliquées"
+          }
+        }
+      }
+    },
+    "Each app and app extension installed with AltStore must register an App ID with Apple.\n\nApp IDs for paid developer accounts never expire, and there is no limit to how many you can create." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaque app et extension d’app installée avec AltStore doit enregistrer un identifiant d’application auprès d’Apple."
+          }
+        }
+      }
+    },
+    "Each app and app extension installed with AltStore must register an App ID with Apple. Apple limits non-developer Apple IDs to 10 App IDs at a time.\n\n**App IDs can't be deleted**, but they do expire after one week. AltStore will automatically renew App IDs for all active apps once they've expired." : {
+
+    },
+    "Enable Background Refresh to automatically refresh apps in the background when connected to the same Wi-Fi as AltServer." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activez le rafraîchissement en arrière-plan pour renouveler automatiquement vos apps lorsque vous êtes connecté au même Wi-Fi qu’AltServer."
+          }
+        }
+      }
+    },
+    "Enable JIT" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer JIT"
+          }
+        }
+      }
+    },
+    "Enabled JIT for %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JIT activé pour %@"
+          }
+        }
+      }
+    },
+    "Enter a source's URL below, or add one of the recommended sources." : {
+      "comment" : "Activez le rafraîchissement en arrière-plan pour renouveler automatiquement vos apps lorsque vous êtes connecté au même Wi-Fi qu’AltServer.",
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrez l’URL d’une source ci‑dessous, ou ajoutez l’une des sources recommandées."
+          }
+        }
+      }
+    },
+    "Entitlements are additional permissions that grant access to certain system services, including potentially sensitive information." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les droits d’accès sont des autorisations supplémentaires qui permettent l’accès à certains services système, y compris des informations potentiellement sensibles."
+          }
+        }
+      }
+    },
+    "Error Details" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Détails de l’erreur"
+          }
+        }
+      }
+    },
+    "Error Loading Patrons" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors du chargement des soutiens Patreon"
+          }
+        }
+      }
+    },
+    "Error:" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur :"
+          }
+        }
+      }
+    },
+    "Errors that occur when sideloading or refreshing apps will appear here." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les erreurs qui surviennent lors de l’installation manuelle ou du rafraîchissement des apps apparaîtront ici."
+          }
+        }
+      }
+    },
+    "Errors that occur while installing apps will appear here." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les erreurs qui surviennent lors de l’installation d’apps apparaîtront ici."
+          }
+        }
+      }
+    },
+    "Expires in" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expire dans"
+          }
+        }
+      }
+    },
+    "Expires in %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expire dans %@"
+          }
+        }
+      }
+    },
+    "Expires in %@." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expire dans %@"
+          }
+        }
+      }
+    },
+    "Export Backup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter la sauvegarde"
+          }
+        }
+      }
+    },
+    "Failed to Activate %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l’activation de %@"
+          }
+        }
+      }
+    },
+    "Failed to Back Up %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la sauvegarde de %@"
+          }
+        }
+      }
+    },
+    "Failed to Clear Error Log" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l’effacement du journal des erreurs"
+          }
+        }
+      }
+    },
+    "Failed to Deactivate %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la désactivation de %@"
+          }
+        }
+      }
+    },
+    "Failed to Enable JIT for %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l’activation de JIT pour %@"
+          }
+        }
+      }
+    },
+    "Failed to Install %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de l’installation de %@"
+          }
+        }
+      }
+    },
+    "Failed to Log In" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la connexion"
+          }
+        }
+      }
+    },
+    "Failed to Refresh %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du rafraîchissement de %@"
+          }
+        }
+      }
+    },
+    "Failed to refresh %@ apps." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du rafraîchissement de %@ apps."
+          }
+        }
+      }
+    },
+    "Failed to refresh 1 app." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du rafraîchissement d’une app."
+          }
+        }
+      }
+    },
+    "Failed to Refresh AltStore" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du rafraîchissement d’AltStore"
+          }
+        }
+      }
+    },
+    "Failed to Refresh Apps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec du rafraîchissement des apps"
+          }
+        }
+      }
+    },
+    "Failed to Restore %@ Backup" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la restauration de la sauvegarde %@"
+          }
+        }
+      }
+    },
+    "Failed to retrieve manifest.json URL from Patreon post." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de récupérer l’URL du fichier manifest.json depuis la publication Patreon."
+          }
+        }
+      }
+    },
+    "Failed to Update %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la mise à jour de %@"
+          }
+        }
+      }
+    },
+    "Failed to Verify %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de la vérification de %@"
+          }
+        }
+      }
+    },
+    "Failure" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec"
+          }
+        }
+      }
+    },
+    "Featured" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À la une"
+          }
+        }
+      }
+    },
+    "Featured Apps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps à la une"
+          }
+        }
+      }
+    },
+    "Finish in %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminer dans %@"
+          }
+        }
+      }
+    },
+    "Finish installing %@?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminer l’installation de %@ ?"
+          }
+        }
+      }
+    },
+    "Follow the instructions in %@ to finish jailbreaking this device." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suivez les instructions dans %@ pour terminer le jailbreak de cet appareil."
+          }
+        }
+      }
+    },
+    "For your protection, please remove the source and uninstall" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour votre sécurité, veuillez supprimer la source et désinstaller"
+          }
+        }
+      }
+    },
+    "Free" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gratuit"
+          }
+        }
+      }
+    },
+    "Free up disk space by removing non-essential data, such as temporary files and backups for uninstalled apps." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libérez de l’espace en supprimant des données non essentielles, telles que des fichiers temporaires et des sauvegardes d’apps désinstallées."
+          }
+        }
+      }
+    },
+    "Gradient" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dégradé"
+          }
+        }
+      }
+    },
+    "Hey ,\n\nYou’re the best. Your account was linked successfully, so you now have access to our Patreon-exclusive apps. You can find them all in the Browse tab.\n\nThanks for all of your support. Enjoy!\nRiley & Shane" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salut ,\n\nTu es incroyable. Ton compte a bien été associé, tu as maintenant accès à nos apps réservées aux membres Patreon. Tu peux toutes les trouver dans l’onglet Parcourir.\n\nMerci pour tout ton soutien. Profite bien!\nRiley et Shane"
+          }
+        }
+      }
+    },
+    "Hey ,\n\nYou’re the best. Your account was linked successfully, so you now have access to the beta versions of all of our apps. You can find them all in the Browse tab.\n\nThanks for all of your support. Enjoy!\nRiley & Shane" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salut ,\n\nTu es incroyable. Ton compte a bien été associé, tu as maintenant accès a nos apps réservées aux membres Patreon. Tu peux toutes les trouver dans l’onglet Parcourir.\n\nMerci pour tout ton soutien. Profite bien!\nRiley et Shane"
+          }
+        }
+      }
+    },
+    "Hey y'all,\n\nYou can support future development of our apps by donating to us on Patreon. In return, you'll receive access to the beta versions of our apps and be among the first to try the latest features.\n\nThanks for all your support 💜\nRiley & Shane" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salut tout le monde,\n\nVous pouvez soutenir le développement à venir de nos apps en nous aidant sur Patreon. En échange, vous aurez accès aux versions bêta de nos apps et serez parmi les premiers à tester les nouvelles fonctionnalités.\n\nMerci pour tout votre soutien 💜\nRiley et Shane\n"
+          }
+        }
+      }
+    },
+    "If you're using the MacDirtyCow exploit to remove the 3-app limit, you can install up to 10 apps and app extensions instead." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vous utilisez l’exploit MacDirtyCow pour supprimer la limite des 3 apps, vous pouvez installer jusqu’à 10 apps et extensions d’app."
+          }
+        }
+      }
+    },
+    "If you've removed the 3-sideloaded app limit via the MacDirtyCow exploit, disable this setting to sideload more than 3 apps at a time." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vous avez supprimé la limite des 3 apps installées via l’exploit MacDirtyCow, désactivez ce réglage pour pouvoir installer plus de 3 apps à la fois."
+          }
+        }
+      }
+    },
+    "In order to finish jailbreaking this device, you need to install %@ then follow the instructions in the app." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour terminer le jailbreak de cet appareil, vous devez installer %@ puis suivre les instructions dans l’app."
+          }
+        }
+      }
+    },
+    "Inactive" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inactives"
+          }
+        }
+      }
+    },
+    "install" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "installer"
+          }
+        }
+      }
+    },
+    "Install" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer"
+          }
+        }
+      }
+    },
+    "Install %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer %@"
+          }
+        }
+      }
+    },
+    "Install Anyway" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer quand même"
+          }
+        }
+      }
+    },
+    "Install Untethered Jailbreak" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer le jailbreak détaché (untethered)"
+          }
+        }
+      }
+    },
+    "Install Without Untethering" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installer sans détachement (untethering)"
+          }
+        }
+      }
+    },
+    "Installed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installées"
+          }
+        }
+      }
+    },
+    "Installing %@ placeholder…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation de l’app factice %@…"
+          }
+        }
+      }
+    },
+    "Installing %@..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation de %@…"
+          }
+        }
+      }
+    },
+    "Installing…" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installation…"
+          }
+        }
+      }
+    },
+    "Invalid ADP install URL." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL de l’ADP d’installation invalide."
+          }
+        }
+      }
+    },
+    "Invalid ADP update URL." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL de l’ADP de mise à jour invalide."
+          }
+        }
+      }
+    },
+    "Invalid parameters." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paramètres invalides."
+          }
+        }
+      }
+    },
+    "iOS" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS"
+          }
+        }
+      }
+    },
+    "iOS %@ or earlier" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS %@ ou une version antérieure"
+          }
+        }
+      }
+    },
+    "iOS %@ or later" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS %@ ou une version ultérieure"
+          }
+        }
+      }
+    },
+    "Jailbreak Requires Untethering" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le jailbreak nécessite un détachement (untethering)"
+          }
+        }
+      }
+    },
+    "Jailbreak Supports Untethering" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le jailbreak prend en charge le détachement (untethering)"
+          }
+        }
+      }
+    },
+    "JIT will remain enabled until you quit the app." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JIT restera activé jusqu’à ce que vous quittiez l’app."
+          }
+        }
+      }
+    },
+    "Join Patreon" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rejoignez le Patreon"
+          }
+        }
+      }
+    },
+    "Keep App Extensions" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conserver les extensions d’app"
+          }
+        }
+      }
+    },
+    "Last Updated: %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dernière mise à jour: %@"
+          }
+        }
+      }
+    },
+    "Link Patreon account" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lier un compte Patreon"
+          }
+        }
+      }
+    },
+    "Loading..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chargement…"
+          }
+        }
+      }
+    },
+    "MACDIRTYCOW" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MACDIRTYCOW"
+          }
+        }
+      }
+    },
+    "Make sure to only add sources that you trust." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assurez-vous d’ajouter uniquement des sources de confiance."
+          }
+        }
+      }
+    },
+    "Make sure you're on the same Wi-Fi network as a computer running AltServer, or try connecting this device to your computer via USB." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assurez-vous d’être sur le même réseau Wi‑Fi qu’un ordinateur exécutant AltServer, ou essayez de connecter cet appareil à votre ordinateur via USB."
+          }
+        }
+      }
+    },
+    "Manage your AltStore PAL annual subscription." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gérez votre abonnement annuel à AltStore PAL"
+          }
+        }
+      }
+    },
+    "Modern" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moderne"
+          }
+        }
+      }
+    },
+    "More" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus"
+          }
+        }
+      }
+    },
+    "Never" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jamais"
+          }
+        }
+      }
+    },
+    "New & Updated" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveautés et mises à jour"
+          }
+        }
+      }
+    },
+    "New Update Available" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouvelle mise à jour disponible"
+          }
+        }
+      }
+    },
+    "No active apps require refreshing." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune app active ne nécessite"
+          }
+        }
+      }
+    },
+    "No Apps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune app"
+          }
+        }
+      }
+    },
+    "No Errors" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune erreur"
+          }
+        }
+      }
+    },
+    "No Refresh Attempts" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune tentative de rafraîchissement"
+          }
+        }
+      }
+    },
+    "No Updates Available" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune mise à jour disponible"
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to 3 active apps and app extensions, and “%@” contains %@ %@. Please choose an app to deactivate." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Non-developer Apple IDs are limited to 3 active apps and app extensions, and “%1$@” contains %2$@ %3$@. Please choose an app to deactivate."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les comptes Apple non‑développeurs sont limités à 3 apps actives et extensions d’app, et%1$@ contient %2$@ %3$@. Veuillez choisir une app à désactiver."
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to 3 active apps and app extensions." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les comptes Apple non‑développeurs sont limités à 3 apps actives et extensions d’app."
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to 3 active apps and app extensions. Please choose an app to deactivate." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les comptes Apple non‑développeurs sont limités à 3 apps actives et extensions d’app. Veuillez choisir une app à désactiver."
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to 3 active apps. Please choose an app to deactivate." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les comptes Apple non‑développeurs sont limités à 3 apps actives. Veuillez choisir une app à désactiver."
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to 3 apps and app extensions. Inactive apps don't count towards your total, but cannot be opened until activated." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les comptes Apple non‑développeurs sont limités à 3 apps. Les apps inactives ne comptent pas dans cette limite, mais ne peuvent pas être ouvertes tant qu’elles ne sont pas réactivées."
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to 3 apps. Inactive apps are backed up and uninstalled so they don't count towards your total, but will be reinstalled with all their data when activated again." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les comptes Apple non-développeurs sont limités à 3 apps. Les apps inactives sont sauvegardées puis désinstallées afin de ne pas être comptabilisées dans cette limite, mais seront réinstallées avec toutes leurs données lorsqu’elles seront réactivées."
+          }
+        }
+      }
+    },
+    "Non-developer Apple IDs are limited to creating 10 App IDs per week." : {
+
+    },
+    "none are available" : {
+
+    },
+    "one or more apps" : {
+
+    },
+    "One or more apps in source “%@” are missing a marketplaceID. This most likely means they are not notarized, which is not supported by this version of AltStore." : {
+
+    },
+    "only %@ are available" : {
+
+    },
+    "only 1 is available" : {
+
+    },
+    "open" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ouvrir"
+          }
+        }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir"
+          }
+        }
+      }
+    },
+    "Open %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir %@"
+          }
+        }
+      }
+    },
+    "Open Placeholder" : {
+
+    },
+    "Operation Failed" : {
+
+    },
+    "Other Entitlements" : {
+
+    },
+    "Patch Placeholder" : {
+
+    },
+    "Patching %@ placeholder…" : {
+
+    },
+    "Patching placeholder app..." : {
+
+    },
+    "PATREON" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PATREON"
+          }
+        }
+      }
+    },
+    "Patreon Account Detected" : {
+
+    },
+    "Permission" : {
+
+    },
+    "Personalize your AltStore experience by choosing an alternate app icon." : {
+
+    },
+    "Photos" : {
+
+    },
+    "Please enter the 6-digit verification code that was sent to your Apple devices." : {
+
+    },
+    "Please make sure your spelling is correct, or try searching for another app." : {
+
+    },
+    "Please open the placeholder app and follow the instructions to continue jailbreaking your device." : {
+
+    },
+    "Please remove the existing source in order to add this one." : {
+
+    },
+    "Pledge" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soutenir"
+          }
+        }
+      }
+    },
+    "Pledge %@ a month" : {
+
+    },
+    "Pledge Expired" : {
+
+    },
+    "Pledged" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soutenu"
+          }
+        }
+      }
+    },
+    "Privacy" : {
+
+    },
+    "Promo" : {
+
+    },
+    "Receive access to beta versions of AltStore, Delta, and more by becoming a patron." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Accédez aux versions bêta d’AltStore, Delta et plus encore en devenant membre Patreon."
+          }
+        }
+      }
+    },
+    "Recessed" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creusé"
+          }
+        }
+      }
+    },
+    "Recommended Sources" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sources Recommandées"
+          }
+        }
+      }
+    },
+    "Redeemed PAL Promo" : {
+
+    },
+    "Refresh" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rafraîchir"
+          }
+        }
+      }
+    },
+    "Refresh %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rafraîchir %@"
+          }
+        }
+      }
+    },
+    "Refresh All" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout rafraîchir"
+          }
+        }
+      }
+    },
+    "Refresh Later" : {
+
+    },
+    "Refreshed Apps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RAFRAÎCHISSEMENT DES APPS"
+          }
+        }
+      }
+    },
+    "Refreshing" : {
+
+    },
+    "REFRESHING APPS" : {
+
+    },
+    "remote AltServer %@" : {
+
+    },
+    "Remove" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Supprimer"
+          }
+        }
+      }
+    },
+    "REMOVE" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SUPPRIMER"
+          }
+        }
+      }
+    },
+    "Remove “%@” from AltStore?" : {
+
+    },
+    "Remove App Extensions" : {
+
+    },
+    "Remove Custom Icon" : {
+
+    },
+    "Remove Source" : {
+
+    },
+    "Restore Backup" : {
+
+    },
+    "Retry" : {
+
+    },
+    "Review Permissions" : {
+
+    },
+    "Search FAQ" : {
+
+    },
+    "See All" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tout voir"
+          }
+        }
+      }
+    },
+    "Sideloaded" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installée manuellement"
+          }
+        }
+      }
+    },
+    "Sign in with your Apple ID to download apps from AltStore." : {
+
+    },
+    "Sign Out" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se déconnecter"
+          }
+        }
+      }
+    },
+    "SIGN OUT" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SE DÉCONNECTER"
+          }
+        }
+      }
+    },
+    "Sort by…" : {
+
+    },
+    "Sources determine what apps are available in AltStore. The more sources you add, the better your AltStore experience will be." : {
+
+    },
+    "Special thanks to..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remerciements spéciaux à…"
+          }
+        }
+      }
+    },
+    "Start Backup?" : {
+
+    },
+    "Success" : {
+
+    },
+    "SUPPORT" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SUPPORT"
+          }
+        }
+      }
+    },
+    "Switch to beta version of AltStore PAL?" : {
+
+    },
+    "Tap a permission to learn more." : {
+
+    },
+    "Tap to view progress." : {
+
+    },
+    "Tap to view source errors." : {
+
+    },
+    "TECHY THINGS" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Options avancées"
+          }
+        }
+      }
+    },
+    "The %@ '%@' for %@ is missing a usage description." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The %1$@ '%2$@' for %3$@ is missing a usage description."
+          }
+        }
+      }
+    },
+    "the app" : {
+
+    },
+    "The app" : {
+
+    },
+    "The app is in an invalid format." : {
+
+    },
+    "The app listing could not be found." : {
+
+    },
+    "The build version of %@ does not match the build version specified by the source." : {
+
+    },
+    "The bundle ID for %@ does not match the one specified by the source." : {
+
+    },
+    "the bundle identifier %@" : {
+
+    },
+    "The certificate could not be found." : {
+
+    },
+    "The certificate's private key could not be found." : {
+
+    },
+    "The connection failed because a connection cannot be made to the host." : {
+
+    },
+    "The connection failed because the network connection was lost." : {
+
+    },
+    "The connection to AltServer was dropped." : {
+
+    },
+    "The default AltStore source cannot be removed." : {
+
+    },
+    "The dependencies for %@ could not be determined." : {
+
+    },
+    "The dependency “%@” could not be downloaded." : {
+
+    },
+    "The developer certificate could not be found." : {
+
+    },
+    "the downloaded app" : {
+
+    },
+    "The following apps have been flagged:" : {
+
+    },
+    "the following apps:" : {
+
+    },
+    "The identifier of the source “%@” has changed." : {
+
+    },
+    "The latest version of %@ could not be determined." : {
+
+    },
+    "The marketplace ID for %@ could not be determined." : {
+
+    },
+    "The marketplace ID for %@ does not match the one specified by the source." : {
+
+    },
+    "The more you open AltStore, the more chances it's given to refresh apps in the background." : {
+
+    },
+    "The more you use AltStore, the more often iOS will allow it to refresh apps in the background." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus vous utilisez AltStore, plus iOS l’autorisera à rafraîchir les apps en arrière-plan."
+          }
+        }
+      }
+    },
+    "The operation is forbidden." : {
+
+    },
+    "The operation returned an unknown result." : {
+
+    },
+    "The operation timed out." : {
+
+    },
+    "The OTA download URL for %@ could not be determined." : {
+
+    },
+    "the same bundle identifier" : {
+
+    },
+    "The SHA-256 hash of %@ does not match the hash specified by the source." : {
+
+    },
+    "The source" : {
+
+    },
+    "The source “%@”" : {
+
+    },
+    "The source “%@” contains %@ for %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The source “%1$@” contains %2$@ for %3$@."
+          }
+        }
+      }
+    },
+    "The source “%@” contains multiple apps with %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The source “%1$@” contains multiple apps with %2$@."
+          }
+        }
+      }
+    },
+    "The source “%@” contains notarized apps, which are not supported by this version of AltStore." : {
+
+    },
+    "The source “%@” has been blocked by AltStore for security reasons." : {
+
+    },
+    "The source “%@” is not supported by this version of AltStore." : {
+
+    },
+    "The task timed out after %@ seconds." : {
+
+    },
+    "The version of %@ does not match the version specified by the source." : {
+
+    },
+    "There are no AltStore sources." : {
+
+    },
+    "These are permissions required by “%@” that AltStore does not recognize. Make sure you understand them before continuing." : {
+
+    },
+    "These permissions must be declared by the source in order for AltStore to install this app:" : {
+
+    },
+    "These updates don't support iOS %@. Please update your device to the latest iOS version to install them." : {
+
+    },
+    "this app" : {
+
+    },
+    "This app" : {
+
+    },
+    "This app supports custom pledges. Pledge any amount on Patreon to receive access." : {
+
+    },
+    "This device is running iOS %@, but %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This device is running iOS %1$@, but %2$@"
+          }
+        }
+      }
+    },
+    "This jailbreak has an untethered version, which means %@ will never expire — even after 7 days or rebooting the device.\n\nInstalling an untethered jailbreak requires a few extra steps, but AltStore will walk you through the process.\n\nWould you like to continue? " : {
+
+    },
+    "This jailbreak is untethered, which means %@ will never expire — even after 7 days or rebooting the device.\n\nInstalling an untethered jailbreak requires a few extra steps, but AltStore will walk you through the process.\n\nWould you like to continue? " : {
+
+    },
+    "This version of “%@” requires additional permissions." : {
+
+    },
+    "This will also erase all backup data for this app." : {
+
+    },
+    "This will remove all temporary files as well as backups for uninstalled apps." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cela supprimera tous les fichiers temporaires ainsi que les sauvegardes pour les apps désinstallées."
+          }
+        }
+      }
+    },
+    "This will replace all data you currently have in %@." : {
+
+    },
+    "This will replace any previous backups. Please leave AltStore open until the backup is complete." : {
+
+    },
+    "This will take a few moments. Please do not turn off the screen or leave the app until patching is complete." : {
+
+    },
+    "This will update AltStore PAL to the latest beta version." : {
+
+    },
+    "To download %@, join this creator's Patreon by pressing “Join for free” on the next screen." : {
+
+    },
+    "Today" : {
+
+    },
+    "Try Again" : {
+
+    },
+    "Unable to Add Source" : {
+
+    },
+    "Unable to Change App Icon" : {
+
+    },
+    "Unable to Check for Updates" : {
+
+    },
+    "Unable to Clear Cache" : {
+
+    },
+    "Unable to Export Detailed Log" : {
+
+    },
+    "Unable to Fetch Apps" : {
+
+    },
+    "Unable to Fetch News" : {
+
+    },
+    "Unable to install %@." : {
+
+    },
+    "Unable to Launch AltStore" : {
+
+    },
+    "Unable to Load Recommended Sources" : {
+
+    },
+    "Unable to parse Patreon post URL." : {
+
+    },
+    "Unable to Prepare App" : {
+
+    },
+    "Unable to Redeem PAL Promo" : {
+
+    },
+    "Unable to Refresh “%@” Source" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’actualiser la source “%@“"
+          }
+        }
+      }
+    },
+    "Unable to Refresh %@ Sources" : {
+
+    },
+    "Unable to Refresh Store" : {
+
+    },
+    "Unable to Remove Source" : {
+
+    },
+    "Unable to update %@." : {
+
+    },
+    "Undeclared Permissions" : {
+
+    },
+    "Unknown Source" : {
+
+    },
+    "Unlink %@" : {
+
+    },
+    "Unlink Patreon Account" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dissocier le compte Patreon"
+          }
+        }
+      }
+    },
+    "Unsupported iOS Version" : {
+
+    },
+    "Unsupported Update Available" : {
+
+    },
+    "Unsupported Updates Available" : {
+
+    },
+    "Untethering Recommended" : {
+
+    },
+    "Untethering Required" : {
+
+    },
+    "Untethering this jailbreak will prevent %@ from expiring, even after 7 days or rebooting the device. Are you sure you want to install without untethering?" : {
+
+    },
+    "update" : {
+
+    },
+    "Update" : {
+
+    },
+    "Update %@" : {
+
+    },
+    "Version %@" : {
+
+    },
+    "View All" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voir toutes"
+          }
+        }
+      }
+    },
+    "View All Apps" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voir toutes les apps"
+          }
+        }
+      }
+    },
+    "View Error" : {
+
+    },
+    "View More Details" : {
+
+    },
+    "View Patreon" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voir Patreon"
+          }
+        }
+      }
+    },
+    "View Permisions" : {
+
+    },
+    "View Recommended Sources" : {
+
+    },
+    "What are inactive apps?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qu’est-ce qu’une app inactive?"
+          }
+        }
+      }
+    },
+    "What are sources?" : {
+
+    },
+    "While AltStore 2.0 is in beta, you may choose to ignore this warning at your own risk until the source is updated." : {
+
+    },
+    "wired AltServer" : {
+
+    },
+    "Would you like to add the source “%@”?" : {
+
+    },
+    "Would you like to download the last version compatible with this device instead?" : {
+
+    },
+    "Would you like to remove this app's extensions so they don't count towards your limit?" : {
+
+    },
+    "You are not signed in." : {
+
+    },
+    "You can register another App ID in %@." : {
+
+    },
+    "You cannot register more than 10 App IDs within a 7 day period." : {
+
+    },
+    "You must add this source before installing apps from it.\n\n“%@” will begin downloading once it has been added." : {
+
+    },
+    "You must also delete it from the home screen to fully uninstall the app." : {
+
+    },
+    "You will no longer be able to install or refresh any apps that require pledges." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous ne pourrez plus installer ou mettre à jour les apps réservées aux membres qui soutiennent sur Patreon."
+          }
+        }
+      }
+    },
+    "You will no longer be able to install or refresh apps once you sign out." : {
+
+    },
+    "You will no longer be able to install or update any apps that require pledges." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous ne pourrez plus installer ou mettre à jour les apps réservées aux membres qui soutiennent sur Patreon."
+          }
+        }
+      }
+    },
+    "You're signed into Patreon but haven't connected your account with AltStore.\n\nPlease connect your account to download Patreon-exclusive apps." : {
+
+    },
+    "You've received 1 month of free access to our “Early Adopter” Patreon tier!\n\nMake sure you have joined our Patreon campaign as a free member and connected your Patreon account in Settings." : {
+
+    },
+    "Your Apple ID has no developer teams." : {
+
+    },
+    "your device's iOS version" : {
+
+    },
+    "Your pledge is no longer active. Please renew it to continue using %@ normally." : {
+
+    }
+  },
+  "version" : "1.1"
+}
